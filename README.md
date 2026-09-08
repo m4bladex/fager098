@@ -29,7 +29,7 @@ I'm a 13-year-old developer passionate about building projects and continuously 
 
 ### 🌐 Showcase
 
-Check out my live projects and showcase at **[m4bladex.github.io](https://m4bladex.github.io)**!
+Check out my live projects and showcase at **[m4bladex.github.io](https://m4bladex.github.io/-)**!
 
 ---
 
