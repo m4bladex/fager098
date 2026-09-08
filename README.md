@@ -8,7 +8,6 @@ I'm a 13-year-old developer passionate about building projects and continuously 
 
 * 💻 **Primary Language:** C (Entry-level advanced)
 * 🌐 **Web Tech:** HTML & CSS (Intermediate)
-* 🌐 **Portfolio Site:** [m4bladex.github.io](https://m4bladex.github.io)
 * ⚡ **Goal:** Building solid systems in C while creating clean web projects on the side.
 
 ---
